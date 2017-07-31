@@ -1,2 +1,2 @@
 # rits_browser
-For Rits Browser Development
+For Rits Browser Developments
